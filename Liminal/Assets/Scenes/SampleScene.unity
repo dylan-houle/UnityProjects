@@ -2482,10 +2482,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55d8c4de9b4ff1d4fbc49cd6c282a1ed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 0}
-  speed: 12
-  gravity: -9.81
-  jumpHeight: 3
+  playerSpeed: 1
+  gravity: 9.81
 --- !u!1 &1705600454
 GameObject:
   m_ObjectHideFlags: 0
